@@ -1,0 +1,17 @@
+.container-tablas{
+    display: flex;
+}
+.container-monedas{
+    padding-right: 100px;
+}
+
+.container-targetas{
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+}

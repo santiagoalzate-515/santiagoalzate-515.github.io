@@ -1,0 +1,12 @@
+.container-posicion-tablas .container-tablas table tr .nombre{
+    width: 145px;
+}
+.container-posicion-tablas .container-tablas table tr .presio{
+   width: 145px;
+    
+}
+
+.container-posicion-tablas .container-tablas table tr{
+    height: 60px;
+}
+
